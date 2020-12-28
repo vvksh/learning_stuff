@@ -5,4 +5,4 @@
 
 # Books:
 
-- Learning React [#1](/issues/1)
+- Learning React [#1](/../../issues/31)
