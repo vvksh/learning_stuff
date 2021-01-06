@@ -5,4 +5,10 @@
 
 # Books:
 
-- Learning React [#1](/../../issues/1)
+- [Learning React](/../../issues/1)
+
+- [Deep learning for coders with fastai and pytorch](/../../issues/3)
+
+# Others
+
+- [Learning Spanish](/../../issues/2) -> using soundcloud audio tracks
