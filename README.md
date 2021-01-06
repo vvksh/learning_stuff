@@ -1,6 +1,6 @@
 # learning_stuff
 
-- Each book has an associated issue and I will post summary of each chapter to that issue as a comment. Trying it to track progress while reading.
+- I will create an issue for things I start learning and will post summary/progress as a comment. Experimenting github issues as a way to track progress while learning. also using github ios app for this, which makes it easy to record.
 
 
 # Books:
