@@ -5,12 +5,8 @@ I will create an issue for things I start learning and will post summary/progres
 I might also record some retro-active issues for things I have already learned and want to record here.
 
 
-# Books:
+- [books](https://github.com/vvksh/learning_stuff/issues?q=label%3Abook)
 
-- [Learning React](/../../issues/1)
+- [languages](https://github.com/vvksh/learning_stuff/issues?q=label%3Alanguage)
 
-- [Deep learning for coders with fastai and pytorch](/../../issues/3)
-
-# Others
-
-- [Learning Spanish](/../../issues/2) -> using soundcloud audio tracks
+- [Learning plans/outlines)[https://github.com/vvksh/learning_stuff/issues?q=label%3Aplan)
