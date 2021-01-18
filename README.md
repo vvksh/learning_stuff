@@ -9,4 +9,4 @@ I might also record some retro-active issues for things I have already learned a
 
 - [languages](https://github.com/vvksh/learning_stuff/issues?q=label%3Alanguage)
 
-- [Learning plans/outlines)[https://github.com/vvksh/learning_stuff/issues?q=label%3Aplan)
+- [Learning plans/outlines](https://github.com/vvksh/learning_stuff/issues?q=label%3Aplan)
